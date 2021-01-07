@@ -6,6 +6,7 @@
 
 ## Trainees
 
+
  - Rishabh Bhatnagar
  - Niranjan Patil
  - Adithya

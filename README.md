@@ -5,4 +5,7 @@
 - Vinit
 
 ## Trainees
-Adithya
+
+ - Rishabh Bhatnagar
+ - Niranjan Patil
+
